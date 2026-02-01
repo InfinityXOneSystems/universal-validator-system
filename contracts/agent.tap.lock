@@ -1,0 +1,6 @@
+﻿agent: uv-validator
+authority: Neo
+rewrite: false
+hallucination: forbidden
+simulation: forbidden
+llm_role: tool_only

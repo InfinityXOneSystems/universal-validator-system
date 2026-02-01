@@ -1,0 +1,9 @@
+system: universal-validator
+authority: Neo
+protocols: [TAP, PAT]
+mode: read-only
+rewrite: forbidden
+hallucination: forbidden
+source_of_truth: shadow-browser
+self_evolution: enabled
+rehydration: enabled

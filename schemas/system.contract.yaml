@@ -1,0 +1,8 @@
+﻿system: universal-validator
+authority: Neo
+protocols:
+  - TAP
+  - PAT
+mode: read-only
+rewrite: forbidden
+hallucination: forbidden

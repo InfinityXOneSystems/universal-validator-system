@@ -1,0 +1,7 @@
+﻿{
+  "intent": "string",
+  "domain": ["string"],
+  "keywords": ["string"],
+  "benchmarks": ["string"],
+  "success_metric": "string"
+}

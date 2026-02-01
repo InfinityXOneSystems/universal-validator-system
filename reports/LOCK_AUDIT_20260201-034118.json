@@ -1,0 +1,14 @@
+{
+    "branch":  "main",
+    "timestamp":  "2026-02-01T03:41:22.8600509-05:00",
+    "authority":  "Neo",
+    "locked":  true,
+    "remote":  "origin",
+    "evidence":  {
+                     "git_head":  "0d94c2d777c51b3959d1f2d546dcbff14347cec4",
+                     "git_tag":  "TAP_LOCK-20260201-034118",
+                     "lockfile":  "C:\\InfinityXOneSystems\\universal-validator-system\\contracts\\phases.lock"
+                 },
+    "root":  "C:\\InfinityXOneSystems\\universal-validator-system",
+    "tag":  "TAP_LOCK-20260201-034118"
+}

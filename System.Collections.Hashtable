@@ -1,0 +1,124 @@
+{
+    "results":  {
+                    "contracts":  [
+                                      {
+                                          "present":  true,
+                                          "file":  "contracts\\system.contract.yaml"
+                                      },
+                                      {
+                                          "present":  true,
+                                          "file":  "contracts\\phases.lock"
+                                      },
+                                      {
+                                          "present":  true,
+                                          "file":  "intent\\intent.schema.json"
+                                      }
+                                  ],
+                    "directories":  [
+                                        {
+                                            "present":  true,
+                                            "component":  "contracts"
+                                        },
+                                        {
+                                            "present":  true,
+                                            "component":  "intent"
+                                        },
+                                        {
+                                            "present":  true,
+                                            "component":  "discovery"
+                                        },
+                                        {
+                                            "present":  true,
+                                            "component":  "shadow"
+                                        },
+                                        {
+                                            "present":  true,
+                                            "component":  "fingerprint"
+                                        },
+                                        {
+                                            "present":  true,
+                                            "component":  "comparison"
+                                        },
+                                        {
+                                            "present":  true,
+                                            "component":  "gap"
+                                        },
+                                        {
+                                            "present":  true,
+                                            "component":  "superiority"
+                                        },
+                                        {
+                                            "present":  true,
+                                            "component":  "generation"
+                                        },
+                                        {
+                                            "present":  true,
+                                            "component":  "deploy"
+                                        },
+                                        {
+                                            "present":  true,
+                                            "component":  "runtime"
+                                        },
+                                        {
+                                            "present":  true,
+                                            "component":  "reports"
+                                        },
+                                        {
+                                            "present":  true,
+                                            "component":  "cli"
+                                        }
+                                    ],
+                    "phases":  [
+                                   {
+                                       "phase":  "discovery",
+                                       "files":  2,
+                                       "implemented":  true
+                                   },
+                                   {
+                                       "phase":  "shadow",
+                                       "files":  3,
+                                       "implemented":  true
+                                   },
+                                   {
+                                       "phase":  "fingerprint",
+                                       "files":  1,
+                                       "implemented":  true
+                                   },
+                                   {
+                                       "phase":  "comparison",
+                                       "files":  2,
+                                       "implemented":  true
+                                   },
+                                   {
+                                       "phase":  "gap",
+                                       "files":  1,
+                                       "implemented":  true
+                                   },
+                                   {
+                                       "phase":  "superiority",
+                                       "files":  1,
+                                       "implemented":  true
+                                   },
+                                   {
+                                       "phase":  "generation",
+                                       "files":  2,
+                                       "implemented":  true
+                                   },
+                                   {
+                                       "phase":  "deploy",
+                                       "files":  1,
+                                       "implemented":  true
+                                   }
+                               ],
+                    "cli_present":  true
+                },
+    "verdict":  "PRODUCTION-CANDIDATE",
+    "timestamp":  "2026-02-01T03:17:08.4860837-05:00",
+    "authority":  "Neo",
+    "system":  "universal-validator-system",
+    "score":  {
+                  "earned":  83,
+                  "percent":  100,
+                  "possible":  83
+              }
+}

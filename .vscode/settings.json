@@ -1,0 +1,13 @@
+﻿{
+  "chat.promptFiles": [
+    ".vscode/uv.validator.agent.md"
+  ],
+  "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+  "github.copilot.chat.codeGeneration.instructions": [
+    {
+      "file": ".vscode/uv.validator.agent.md"
+    }
+  ],
+  "editor.formatOnSave": false,
+  "files.autoSave": "onFocusChange"
+}
